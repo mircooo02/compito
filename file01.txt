@@ -1,2 +1,6 @@
 prima prova
+<<<<<<< HEAD
 terza prova
+=======
+quarta prova
+>>>>>>> master
